@@ -10,6 +10,8 @@
 
 #include "sections/2.typ"
 
+#include "sections/3.typ"
+
 #pagebreak()
 
 #include "sections/info.typ"
