@@ -16,7 +16,7 @@
         grid(
           columns: (1fr, 2fr, 1fr),
           align: (left, center, right),
-          link("https://github.com/yokhorr/yokhor-notes", [*yokhor-notes*]),
+          link("https://www.youtube.com/watch?v=dQw4w9WgXcQ", [*yokhor-notes*]),
           text(weight: "medium", course),
           teacher,
         )
@@ -192,3 +192,5 @@
   align: (center + horizon, right + horizon),
   eq, tag
 )
+
+#let mathring(x) = math.accent(x, math.circle.small)
