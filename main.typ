@@ -16,6 +16,8 @@
 
 #include "sections/5.typ"
 
+#include "sections/6.typ"
+
 #pagebreak()
 
 #include "sections/info.typ"
