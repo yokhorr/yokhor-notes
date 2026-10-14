@@ -1,3 +1,6 @@
 [submodule "Calculus S3 [34-35]"]
 	path = Calculus S3 [34-35]
 	url = git@github.com:yokhorr/Calculus-S3-34-35.git
+[submodule "Calculus S3 CW1 [35]"]
+	path = Calculus S3 CW1 [35]
+	url = git@github.com:yokhorr/Calculus-S3-CW1-35.git
