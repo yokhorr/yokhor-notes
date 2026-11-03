@@ -7,3 +7,6 @@
 [submodule "dm-s3-cq1"]
 	path = dm-s3-cq1
 	url = git@github.com:yokhorr/dm-s3-cq1.git
+[submodule "calc-s3-cw2"]
+	path = calc-s3-cw2
+	url = git@github.com:yokhorr/calc-s3-cw2.git
